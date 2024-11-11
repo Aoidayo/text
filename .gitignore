@@ -1,2 +1,6 @@
-# Q1 dir/*
+# -- Q1 dir/*
+# dir1/*
+
+# -- Q2 !
 dir1/*
+!dir1/subdir1-1
